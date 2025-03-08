@@ -1,1 +1,2 @@
-# zomato
+🚀 Zomato Clone - Full-Stack Project
+A Full-Stack Zomato Clone built using ReactJS (Frontend) & Node.js, Express, MongoDB (Backend). The project features user authentication, restaurant browsing, menu selection, cart management, order placement, search & filters, and payment integration, all wrapped in a responsive UI with dark mode. 🛒🍽️💳 The repository is structured into backend/ (Node.js, Express, MongoDB) and frontend/ (React, Redux, Tailwind). To run locally, clone the repo, install dependencies using npm install, and start both frontend & backend with npm start. Contributions are welcome! ⭐ Give it a star if you like this project! 🚀
